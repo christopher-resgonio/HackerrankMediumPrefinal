@@ -1,12 +1,4 @@
-/*
- * Complete the 'fibonacciModified' function below.
- *
- * The function is expected to return an INTEGER.
- * The function accepts following parameters:
- *  1. INTEGER t1
- *  2. INTEGER t2
- *  3. INTEGER n
- */
+
 
 function fibonacciModified(t1, t2, n) {
     // Use BigInt to handle very large numbers
